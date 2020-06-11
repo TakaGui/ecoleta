@@ -4,12 +4,33 @@ Ecoleta é uma aplicação desenvolvida na Next Level Week tendo em vista a Sema
 
 - - -
 
+## Índices
+
+1. [ Funcionalidades ](#funcionalidades)
+1.1 [Aplicação Web](#aplicação-web)
+1.2 [Aplicação mobile](#aplicação-mobile)
+2. [ Tecnologias utilizadas ](#tecnologias-utilizadas)
+3. [ O que eu aprendi ](#o-que-eu-aprendi)
+3.1 [ Back-end ](#back-end)
+3.2 [ Front-end web](#front-end-web)
+3.3 [ Mobile ](#mobile)
+4. [ Padrão ](#padrão)
+5. [ Como usar ](#como-usar)
+
+- - -
+
+<a name="funcionalidades"></a>
+
 ## Funcionalidades
+
+<a name="aplicação-web"></a>
 
 ### Aplicação web
 
   - Cadastrar ponto de coleta;
   - Listar os itens de coleta.
+
+<a name="aplicação-mobile"></a>
 
 ### Aplicação mobile
 
@@ -20,6 +41,8 @@ Ecoleta é uma aplicação desenvolvida na Next Level Week tendo em vista a Sema
 
 - - -
 
+<a name="tecnologias-utilizadas"></a>
+
 ## Tecnologias utilizadas
 
   - Typescript
@@ -28,10 +51,15 @@ Ecoleta é uma aplicação desenvolvida na Next Level Week tendo em vista a Sema
   - KNEX
   - ReactJS
   - React Native
+  - Express
 
 - - -
 
+<a name="o-que-eu-aprendi"></a>
+
 ## O que eu aprendi
+
+<a name="back-end"></a>
 
 ### Back-end
 
@@ -55,6 +83,8 @@ Como configurar conexão com o banco de dados utilizando o KNEX e a importância
 
 **Migrations**: são o controle de versão do banco de dados, histórico do banco de dados.
 
+<a name="front-end-web"></a>
+
 ### Front-end web
 
 React serve para construir SPAs (Single Page Applications) que é uma forma da gente não precisar carregar toda a aplicação quando fizermos uma alteração de rota.
@@ -70,6 +100,9 @@ React serve para construir SPAs (Single Page Applications) que é uma forma da g
 
 **UseState**: Usado sempre que precisar armazenar uma informação.
 **useEffect**: Usado para carregar os itens assim que o usuário enrar na tela ou quando muda alguma informação.
+
+
+<a name="mobile"></a>
 
 ### Mobile
 
@@ -106,6 +139,8 @@ const styles = StyleSheet.create({
 
 - - -
 
+<a name="padrão"></a>
+
 ## Padrão
 
 Foi utilizado o seguinte padrão para os métodos nas controllers: 
@@ -117,6 +152,8 @@ Foi utilizado o seguinte padrão para os métodos nas controllers:
 - delete: excluir registro
 
 - - -
+
+<a name="como-usar"></a>
 
 ## Como usar
 
