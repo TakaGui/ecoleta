@@ -4,6 +4,10 @@ Ecoleta é uma aplicação desenvolvida na Next Level Week tendo em vista a Sema
 
 - - -
 
+![](./web/public/image/web.gif)
+
+- - -
+
 ## Índices
 
 1. [ Funcionalidades ](#funcionalidades)\
