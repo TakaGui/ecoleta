@@ -6,14 +6,14 @@ Ecoleta é uma aplicação desenvolvida na Next Level Week tendo em vista a Sema
 
 ## Índices
 
-1. [ Funcionalidades ](#funcionalidades)
-  - [Aplicação Web](#aplicação-web)
-  - [Aplicação mobile](#aplicação-mobile)
+1. [ Funcionalidades ](#funcionalidades)\
+1.1 [Aplicação Web](#aplicação-web)\
+1.2 [Aplicação mobile](#aplicação-mobile)
 2. [ Tecnologias utilizadas ](#tecnologias-utilizadas)
-3. [ O que eu aprendi ](#o-que-eu-aprendi)
-  - [ Back-end ](#back-end)
-  - [ Front-end web](#front-end-web)
-  - [ Mobile ](#mobile)
+3. [ O que eu aprendi ](#o-que-eu-aprendi)\
+3.1 [ Back-end ](#back-end)\
+3.2 [ Front-end web](#front-end-web)\
+3.3 [ Mobile ](#mobile)
 4. [ Padrão ](#padrão)
 5. [ Como usar ](#como-usar)
 
