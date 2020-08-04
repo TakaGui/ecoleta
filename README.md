@@ -68,15 +68,21 @@ Ecoleta é uma aplicação desenvolvida na Next Level Week tendo em vista a Sema
 ### Back-end
 
 **Rotas**: Endereço completo da requisição.
+
 **Recurso**: Qual entidade estamos acessando no sistema.
 
 **GET**: Buscar uma ou mais informações do back-end.
+
 **POST**: Criar uma nova informação no back-end.
+
 **PUT**: Atualizar uma informação existente no back-end.
+
 **DELETE**: Remover uma informação do back-end.
 
 **Request Param**: Parâmetros que vem na própria rota que identificam um recurso.
+
 **Query Param**: Parâmetros que vêm na própria rota para filtros, paginação, geralemente são opcionais.
+
 **Request Body**: Parâmetros para criação/atualização de informações.
 
 Utilização de um **Query Builder** ([KNEX](http://knexjs.org/)) para construir queries independente do banco de dados, ou seja, se algum dia mudar o banco de dados, vai continuar funcionando da mesma forma.
@@ -94,6 +100,7 @@ Como configurar conexão com o banco de dados utilizando o KNEX e a importância
 React serve para construir SPAs (Single Page Applications) que é uma forma da gente não precisar carregar toda a aplicação quando fizermos uma alteração de rota.
 
 **JSX**: Sintaxe de XML dentro do JavaScript.
+
 **TSX**: TypeScript com JSX.
 
 **Componente no React**: Conseguir separar a aplicação em pequenos blocos que podem ser reutilizados.
@@ -103,6 +110,7 @@ React serve para construir SPAs (Single Page Applications) que é uma forma da g
 **Estado e Imutabilidade**: Estados são informações mantidas no próprio componente. Imutabilidade é algo que não pode alterar o estado de uma maneira direta. No React ao invés de alterar um valor é necessário criar um outro valor para esse estado com as modificações que precisamos. Isso garante várias melhorias na aplicação.
 
 **UseState**: Usado sempre que precisar armazenar uma informação.
+
 **useEffect**: Usado para carregar os itens assim que o usuário enrar na tela ou quando muda alguma informação.
 
 
